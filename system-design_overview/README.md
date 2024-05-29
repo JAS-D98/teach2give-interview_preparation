@@ -201,4 +201,4 @@ The API rate limiter allows one to make a particular number of API requests in a
 - Talk about how you can keep count of requests. You may use the IP address received in the request header.
 </details>
 
-## Reference for this guide: <a href="https://www.designgurus.io/blog/system-design-primer-the-ultimate-guide">Design Gurus</a> 
+## Reference for this guide: [Design Gurus](https://www.designgurus.io/blog/system-design-primer-the-ultimate-guide)
