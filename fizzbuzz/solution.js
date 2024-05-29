@@ -8,8 +8,8 @@ let fizzBuzz =(num)=>{
         }else{
             return `${num}`;
         }
-}
+};
 
 for (let i=0; i<=100; i++){
     console.log(fizzBuzz(i));
-}
+};
