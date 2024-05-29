@@ -1,3 +1,37 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents** 
+
+- [INTRODUCTION TO SYSTEM DESIGN](#introduction-to-system-design)
+  - [*Let's get started preparing for your next interview*](#lets-get-started-preparing-for-your-next-interview)
+  - [Design Methods in System Design](#design-methods-in-system-design)
+  - [Deeper System Design Concepts](#deeper-system-design-concepts)
+    - [Performance vs Scalability](#performance-vs-scalability)
+    - [Latency vs Throughput](#latency-vs-throughput)
+    - [Consistency Patterns and Availability Patterns](#consistency-patterns-and-availability-patterns)
+      - [Consistency Patterns](#consistency-patterns)
+      - [Availability Patterns](#availability-patterns)
+- [Advanced Concepts in System Design](#advanced-concepts-in-system-design)
+- [Components of System Design](#components-of-system-design)
+  - [1. __Microservices and Service Discovery__](#1-__microservices-and-service-discovery__)
+  - [2. __Database Systems: Relational Database Management System (RDBMS) and NoSQL__](#2-__database-systems-relational-database-management-system-rdbms-and-nosql__)
+    - [Characteristics of RDBMS database.](#characteristics-of-rdbms-database)
+    - [<u>NoSQL</u>](#unosqlu)
+    - [Characteristics of NoSQL database.](#characteristics-of-nosql-database)
+  - [3. Communication Protocols](#3-communication-protocols)
+- [Best Approach to System Design Interview Questions](#best-approach-to-system-design-interview-questions)
+    - [1. Requirements clarification](#1-requirements-clarification)
+    - [2. Estimation of resources](#2-estimation-of-resources)
+    - [3. System interface definition](#3-system-interface-definition)
+    - [4. Defining Data model](#4-defining-data-model)
+    - [5. High-level design](#5-high-level-design)
+    - [6. Detailed design](#6-detailed-design)
+    - [7. Identifying and resolving bottlenecks](#7-identifying-and-resolving-bottlenecks)
+- [Sample System Design Interview Questions and Approaches to Solutions](#sample-system-design-interview-questions-and-approaches-to-solutions)
+  - [Reference for this guide: Design Gurus](#reference-for-this-guide-design-gurus)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # INTRODUCTION TO SYSTEM DESIGN
 
 
